@@ -25,12 +25,8 @@
 このボットを購入、起動するには [KuronekoServer Store](https://store.kuroneko6423.com) を参照してください
 
 # 質問/提案/バグレポート
+[![Discord Banner 4](https://discordapp.com/api/guilds/867038364552396860/widget.png?style=banner4)](https://discord.gg/Y6w5Jv3EAR)
 
-**機能を提案する前に、推奨/計画された機能リストをお読みください。**<br>
-ボットの機能の変更を提案したり、カスタマイズ・オプションを推奨したり、バグを報告したりしたい場合には、このリポジトリーでIssueを開くか、あるいは [Discordサーバー](https://discord.gg/Y6w5Jv3EAR) に参加してください。(注意:
-追加のAPIキーを必要とする機能リクエストや音楽以外の機能は受け付けません)。
-<br>このBotが好きでしたら、このBotに使われているライブラリにStarを追加してください:<br>[JDA](https://github.com/DV8FromTheWorld/JDA)
-と [lavaplayer](https://github.com/sedmelluq/lavaplayer)
 
 # コマンドの例
 
